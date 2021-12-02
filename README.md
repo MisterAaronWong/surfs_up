@@ -1,10 +1,10 @@
 # surfs_up
 
 ## Overview
-The purpose of this analysis was to analyze temperature trends for the months of June through December in Oahu, Hawaii to determine how best to optimize the surf and ice cream shop business thoughout the year. First, 
+The purpose of this analysis was to analyze temperature trends for the months of June through December in Oahu, Hawaii to determine how best to optimize the surf and ice cream shop business thoughout the year. By extracting temperature information during these periods for this location, we can analyze to determine if there are any important trends that could impact the business decisions of these shops. 
 
 ## Results
-The results of the analysis determined that the temperature data during June, typically considered a peak month of summer, was relatively close to the temperature data of December, the start of the winter. June also had almost 200 more temperature data recorded because the extracted June data were for the Years 2010 through 2017 while the December data was only from 2010 through 2016. However, there were some other key differences of note:
+The results of the analysis determined that the temperature data during June, typically considered a peak month of summer, was relatively close to the temperature data of December, the start of the winter. June also had nearly 200 more temperature data recorded because the extracted June data were for the Years 2010 through 2017 while the December data was only from 2010 through 2016. However, there were some other key results of note:
 
 - The average/mean temperature for June was 75 degrees while the mean temperature for December was 71 degrees, a relatively minimal difference. 
 
@@ -12,12 +12,9 @@ The results of the analysis determined that the temperature data during June, ty
 
 - The minimum temperatures were 64 degrees and 56 degrees for June and December, respecticely. This shows a greater separation for December, which is logical since December generally marks the start of winter, where temperatures are close to their lowest.
 
-
 See below for a visual summary breakdown for each month:
-![june_data](june_data.png)
 
-![december_data](dec_data.png)
-
+![june_data](june_data.png)           ![december_data](dec_data.png)
 
 ## Summary
 Based on looking at both datasets, it appears that the surf and ice cream business would both definitely have sustainable business between June and December. December seems to have a wider range of temperatures, while June's temperatures are closer and more consistent. Despite this, the average temperature only appears to have a 4 degree difference and it is still in the range of warm enough weather (70 degrees) that is comfortable enough for people to go surf and indulge on cold sweet treats. This is something the surf shop and ice cream shop in Oahu will want to capitalize on. 
